@@ -1,4 +1,14 @@
 username,start_time,end_time,total_time_seconds,size,puzzle,result,moves,end_reason
+Arpit,2026-04-07 17:22:22,2026-04-07 17:22:30,8,3,My Image,,0,app_close
+Arpit,2026-04-07 17:22:20,2026-04-07 17:22:21,1,5,My Image,,0,size_change
+Arpit,2026-04-07 17:22:20,2026-04-07 17:22:20,0,5,Butterfly Meadow,,0,puzzle_change
+Arpit,2026-04-07 17:22:19,2026-04-07 17:22:20,0,5,Cute Cat,,0,puzzle_change
+Arpit,2026-04-07 17:22:18,2026-04-07 17:22:19,0,5,Blue Bird,,0,puzzle_change
+Arpit,2026-04-07 17:22:18,2026-04-07 17:22:18,0,5,Forest Lake,,0,puzzle_change
+Arpit,2026-04-07 17:22:17,2026-04-07 17:22:18,0,5,Mountain Valley,,0,puzzle_change
+Arpit,2026-04-07 17:22:15,2026-04-07 17:22:17,2,5,My Image,,0,puzzle_change
+Arpit,2026-04-07 17:22:13,2026-04-07 17:22:15,1,4,My Image,,0,size_change
+Arpit,2026-04-07 17:21:49,2026-04-07 17:22:06,16,3,My Image,win,7,win
 AA,2026-04-07 15:36:21,2026-04-07 15:36:27,5,3,My Image,,3,app_close
 Arpit,2026-04-07 15:28:30,2026-04-07 15:28:33,2,5,My Image,,0,app_close
 Arpit,2026-04-07 15:28:21,2026-04-07 15:28:30,9,5,My Image,,6,restart
