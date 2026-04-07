@@ -5,53 +5,50 @@ Exact User Prompts (Verbatim, In Order)
 3. anti gravity
 4. jigsaw puzzle game ka bna ke dena
 5. python language me banana
-6. square image kaisy honi ?
-7. transparent ya fill hona chahiye ?
-8. Generate a 300x300 square image of a cartoon landscape
-9. ye error aa rhi hai
-10. advanced python jigsaw do (Add timer, move counter, difficulty, restart)
-11. also do that
-12. give me one code to paste in main.py file in logical manner and improve UI (frontend only)
-13. also do that and improve button UI
-14. button should be different (background fix + hand pointer)
-15. please give me full main.py code
-16. drag-drop functionality not working
-17. please give me full code
-18. please make short prompt for this game (submission purpose)
-19. kindly list the prompts I sent in a point-wise manner
+6. Generate a 300x300 square image of a cartoon landscape
+7. ye error aa rhi hai
+8. advanced python jigsaw do (Add timer, move counter, difficulty, restart)
+9. give me one code to paste in main.py file in logical manner and improve UI (frontend only)
+10. also do that and improve button UI
+11. button should be different (background fix + hand pointer)
+12. please give me full main.py code
+13. drag-drop functionality not working
+14. please give me full code
+15. please make short prompt for this game (submission purpose)
+16. kindly list the prompts I sent in a point-wise manner
 
 
-20. try yourself  and fix the bug
+17. try yourself  and fix the bug
 
-21. when i drag any piece it get mix with other showing balnk space.
+18. when i drag any piece it get mix with other showing balnk space.
 please replace the piece of puzzele with one another
 
-22. Please remove the uplaod button and add new intreseting puzzles
-23. please check your self because my side code not run showing the error
-24. Please remove that image you have added and chnage teh with user easily  arrange and image should nature, animal
-25. please dont remove my image we have uploads image file
-26. please remove easy mode functionality  iam okay with drag and drop functionality
-27. Give me output referencew image to compare the outcomne from the user
-28. game windoe always open in full window and should be responsive
-29. please check your self when click 5x5 then click 4x4  to some time showing some piece or showing blnk space again click then show full piece
-30. Please remove the Upload button option
-31. now also  add store the username and time when user start the it necessssary to add the user name
-32. Please improve the UI of username popup
-33. main ye chahta hu start time end time pta chale end time kuch bhi ho skta hai. rester kre to end time aa jaye app close kre to end time a nd win ho jaye to end tme and total time nikal ke aa jayega and jo win hua usme win likha aa jaye
-34. bar bar nya CSV file mat bnao jab new game khele to ek hi file me data add hote jaye new data sbse phle dikhe
-35. https://github.com/arpitmittal1306/jigsaw-puzzle.git
+19. Please remove the uplaod button and add new intreseting puzzles
+20. please check your self because my side code not run showing the error
+21. Please remove that image you have added and chnage teh with user easily  arrange and image should nature, animal
+22. please dont remove my image we have uploads image file
+23. please remove easy mode functionality  iam okay with drag and drop functionality
+24. Give me output referencew image to compare the outcomne from the user
+25. game windoe always open in full window and should be responsive
+26. please check your self when click 5x5 then click 4x4  to some time showing some piece or showing blnk space again click then show full piece
+27. Please remove the Upload button option
+28. now also  add store the username and time when user start the it necessssary to add the user name
+29. Please improve the UI of username popup
+30. main ye chahta hu start time end time pta chale end time kuch bhi ho skta hai. rester kre to end time aa jaye app close kre to end time a nd win ho jaye to end tme and total time nikal ke aa jayega and jo win hua usme win likha aa jaye
+31. bar bar nya CSV file mat bnao jab new game khele to ek hi file me data add hote jaye new data sbse phle dikhe
+32. https://github.com/arpitmittal1306/jigsaw-puzzle.git
 this is my repo push code in this repo
 
-36. push now
-37. arpitmittal1306  user name hai
+33. push now
+34. arpitmittal1306  user name hai
 arpitmittal1306@gmail.com  email
 
-38. I have send to manager please all step hoew to use and setup so to add in README file
-39. again push the code
-40. I want add all prompt and responses add in file prompt.txt
-41. you added all prompt ?
-42. I want exact full text of every propmt
-43. witn all exact response also add
-44. now push the code
-45. Push the code
-46. Only my prompt show in PROMPT_HISTORY file not required responses
+35. I have send to manager please all step hoew to use and setup so to add in README file
+36. again push the code
+37. I want add all prompt and responses add in file prompt.txt
+38. you added all prompt ?
+39. I want exact full text of every propmt
+40. witn all exact response also add
+41. now push the code
+42. Push the code
+43. Only my prompt show in PROMPT_HISTORY file not required responses
