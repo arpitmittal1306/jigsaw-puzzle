@@ -1,183 +1,57 @@
-Exact User Prompts and Assistant Responses (Verbatim)
+Exact User Prompts (Verbatim, In Order)
 
-1) Prompt:
-try yourself  and fix the bug
+1. VS code me kaise bnau and AI pura code likh de
+2. ati gravity se bana hai to kaise banye ?
+3. anti gravity
+4. jigsaw puzzle game ka bna ke dena
+5. python language me banana
+6. square image kaisy honi ?
+7. transparent ya fill hona chahiye ?
+8. Generate a 300x300 square image of a cartoon landscape
+9. ye error aa rhi hai
+10. advanced python jigsaw do (Add timer, move counter, difficulty, restart)
+11. also do that
+12. give me one code to paste in main.py file in logical manner and improve UI (frontend only)
+13. also do that and improve button UI
+14. button should be different (background fix + hand pointer)
+15. please give me full main.py code
+16. drag-drop functionality not working
+17. please give me full code
+18. please make short prompt for this game (submission purpose)
+19. kindly list the prompts I sent in a point-wise manner
 
-Response:
-Updated the drag-drop bug so tiles now swap with the tile under your mouse when you release, instead of causing overlap/blank gaps.
 
-Changed in main.py:
-- Release binding now calls self.drop_tile directly
-- Rewrote drop logic to compute target row/column from cursor position and swap indices safely
+20. try yourself  and fix the bug
 
-I also ran a syntax check: python -m py_compile main.py (passed).
-
-Please run the game now and drag a tile onto another tile; it should replace/swap correctly.
-
-2) Prompt:
-when i drag any piece it get mix with other showing balnk space.
+21. when i drag any piece it get mix with other showing balnk space.
 please replace the piece of puzzele with one another
 
-Response:
-Updated the drag-drop bug so tiles now swap with the tile under your mouse when you release, instead of causing overlap/blank gaps.
-
-Changed in main.py:
-- Release binding now calls self.drop_tile directly
-- Rewrote drop logic to compute target row/column from cursor position and swap indices safely
-
-I also ran a syntax check: python -m py_compile main.py (passed).
-
-Please run the game now and drag a tile onto another tile; it should replace/swap correctly.
-
-3) Prompt:
-Please remove the uplaod button and add new intreseting puzzles
-
-Response:
-Done. I removed the Upload button and added built-in puzzle themes you can cycle with a new Puzzle button.
-
-4) Prompt:
-please check your self because my side code not run showing the error
-
-Response:
-Fixed. The crash was due to tuple colors passed to hex_to_rgb.
-I added tuple handling plus Pillow resampling compatibility fallback.
-
-5) Prompt:
-Please remove that image you have added and chnage teh with user easily  arrange and image should nature, animal
-
-Response:
-Updated exactly as requested:
-- Removed abstract puzzle set
-- Added nature/animal puzzle set
-- Switched to easy click-to-swap arrangement mode
-
-6) Prompt:
-please dont remove my image we have uploads image file
-
-Response:
-Updated. Your image support is back.
-- Restored Upload button
-- Added upload_image flow
-- Kept local image.jpg as My Image puzzle
-
-7) Prompt:
-please remove easy mode functionality  iam okay with drag and drop functionality
-
-Response:
-Done. Easy mode removed and drag-and-drop restored.
-
-8) Prompt:
-Give me output referencew image to compare the outcomne from the user
-
-Response:
-Added reference image feature:
-- New Reference button
-- Opens popup with full solved/current image
-- Auto-refreshes on puzzle/size change
-
-9) Prompt:
-game windoe always open in full window and should be responsive
-
-Response:
-Done:
-- Window starts maximized
-- Board/tile size now resizes responsively with window size
-
-10) Prompt:
-please check your self when click 5x5 then click 4x4  to some time showing some piece or showing blnk space again click then show full piece
-
-Response:
-Fixed:
-- Added safe board rebuild during resize/size switches
-- Added level-update guard to avoid temporary mismatched state
-- Blank/partial tile issue resolved
-
-11) Prompt:
-Please remove the Upload button option
-
-Response:
-Done. Removed Upload button and upload-related code.
-
-12) Prompt:
-now also  add store the username and time when user start the it necessssary to add the user name
-
-Response:
-Implemented:
-- Mandatory username at startup
-- Session start logging
-- Username shown in info bar
-
-13) Prompt:
-Please improve the UI of username popup
-
-Response:
-Done. Replaced default prompt with custom styled modal popup:
-- Dark theme
-- Validation
-- Start/Exit buttons
-- Enter key submit
-
-14) Prompt:
-main ye chahta hu start time end time pta chale end time kuch bhi ho skta hai. rester kre to end time aa jaye app close kre to end time a nd win ho jaye to end tme and total time nikal ke aa jayega and jo win hua usme win likha aa jaye
-
-Response:
-Implemented complete game event tracking with start/end/elapsed/win/close handling.
-
-15) Prompt:
-bar bar nya CSV file mat bnao jab new game khele to ek hi file me data add hote jaye new data sbse phle dikhe
-
-Response:
-Done:
-- Single CSV file only
-- Newest rows inserted at top
-
-16) Prompt:
-https://github.com/arpitmittal1306/jigsaw-puzzle.git
+22. Please remove the uplaod button and add new intreseting puzzles
+23. please check your self because my side code not run showing the error
+24. Please remove that image you have added and chnage teh with user easily  arrange and image should nature, animal
+25. please dont remove my image we have uploads image file
+26. please remove easy mode functionality  iam okay with drag and drop functionality
+27. Give me output referencew image to compare the outcomne from the user
+28. game windoe always open in full window and should be responsive
+29. please check your self when click 5x5 then click 4x4  to some time showing some piece or showing blnk space again click then show full piece
+30. Please remove the Upload button option
+31. now also  add store the username and time when user start the it necessssary to add the user name
+32. Please improve the UI of username popup
+33. main ye chahta hu start time end time pta chale end time kuch bhi ho skta hai. rester kre to end time aa jaye app close kre to end time a nd win ho jaye to end tme and total time nikal ke aa jayega and jo win hua usme win likha aa jaye
+34. bar bar nya CSV file mat bnao jab new game khele to ek hi file me data add hote jaye new data sbse phle dikhe
+35. https://github.com/arpitmittal1306/jigsaw-puzzle.git
 this is my repo push code in this repo
 
-Response:
-Push blocked initially because git wasn’t installed in PATH. After setup, proceeded with repo init/commit/push steps.
-
-17) Prompt:
-push now
-
-Response:
-Push completed after git setup/auth handling.
-
-18) Prompt:
-arpitmittal1306  user name hai
+36. push now
+37. arpitmittal1306  user name hai
 arpitmittal1306@gmail.com  email
 
-Response:
-Configured git username/email and completed commit/push flow.
-
-19) Prompt:
-I have send to manager please all step hoew to use and setup so to add in README file
-
-Response:
-README updated with full setup, usage, controls, logs, and troubleshooting.
-
-20) Prompt:
-again push the code
-
-Response:
-Committed latest changes and pushed to origin/main successfully.
-
-21) Prompt:
-I want add all prompt and responses add in file prompt.txt
-
-Response:
-Created prompt.txt and added prompt/response log.
-
-22) Prompt:
-you added all prompt ?
-
-Response:
-Not full word-by-word prompts yet.
-I added a summarized log of all requests/responses.
-
-23) Prompt:
-I want exact full text of every propmt
-
-Response:
-Done. Replaced prompt.txt with exact verbatim prompts in order.
+38. I have send to manager please all step hoew to use and setup so to add in README file
+39. again push the code
+40. I want add all prompt and responses add in file prompt.txt
+41. you added all prompt ?
+42. I want exact full text of every propmt
+43. witn all exact response also add
+44. now push the code
+45. Push the code
+46. Only my prompt show in PROMPT_HISTORY file not required responses
